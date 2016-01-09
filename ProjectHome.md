@@ -1,0 +1,1 @@
+conectar via jna scanner ou camera fotografica
